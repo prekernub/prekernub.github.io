@@ -2,7 +2,7 @@
   "headers": [
     {
       "tagName": "h2",
-      "titleContent": "Yang gabung Pasti Untung",
+      "titleContent": "YANG GABUNG PASTI UNTUNG",
       "attributes": [],
       "textID": "bullet1",
       "style": {"class":"fas fa-check","hidden":"true"},
@@ -10,7 +10,7 @@
     },
     {
       "tagName": "h2",
-      "titleContent": "Cara Mendaftar di Yagoal",
+      "titleContent": "CARA BUAT AKUN DI YAGOAL",
       "attributes": [],
       "textID": "bullet2",
       "style": {"class":"fas fa-check","hidden":"true"},
@@ -26,11 +26,11 @@
     },
     {
       "tagName": "h2",
-      "titleContent": "TENTANG BREAKEVEN",
+      "titleContent": "APA ITU YAGOAL BREAKEVEN?",
       "attributes": [],
       "textID": "text-8aa925d4",
       "style": "",
-      "textContent": "<p>Breakeven adalah layanan yang memberikan penghasilan 0.75% tiap sekali misi yang di selesaikan, Dalam sehari anda bisa menyelesaikan 3 kali misi, dan jika ditotal penghasilan anda perharinya sebesar 2.25% lebih.</p><br><p>Kelebihan dari mengikuti misi Breakeven di Yagoal adalah hasil yang di dapat bisa di lipat gandakan atau lebih keren bahasanya bisa di coumpond. Hasil dari menyelesaikan misi Breakiven pertama bisa di masukan semua untuk misi Breakeven selanjutnya, Dan begitu seterusnya. Jadi kalau di hitung dalam jangka satu bulan hasilnya bisa mencapai 99% dari modal awal anda.</p>"
+      "textContent": "<p><strong>Yagoal Breakeven</strong> - adalah layanan yang memberikan penghasilan 0.75% tiap sekali misi yang di selesaikan, Dalam sehari anda bisa menyelesaikan 3 kali misi, dan jika ditotal penghasilan anda perharinya sebesar 2.25% lebih.</p><br><p>Kelebihan dari mengikuti misi Breakeven di Yagoal adalah hasil yang di dapat bisa di lipat gandakan atau lebih keren bahasanya bisa di coumpond. Hasil dari menyelesaikan misi Breakiven pertama bisa di masukan semua untuk misi Breakeven selanjutnya, Dan begitu seterusnya. Jadi kalau di hitung dalam jangka satu bulan hasilnya bisa mencapai 99% dari modal awal anda.</p>"
     }
   ],
   "iframes": [
