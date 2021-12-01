@@ -14,7 +14,7 @@
       "attributes": [],
       "textID": "bullet2",
       "style": {"class":"fas fa-check","hidden":"true"},
-      "textContent": ["Masukan nomor handphone dimulai angka 8.","Contoh: <strong>08778899000</strong>, cukup isi dengan <strong>8778899000</strong>.","Kirim kode verifikasi sms melalui nomor handphone.","Buat password login akun anda.","Isi nama sesuai dengan rekening yang anda gunakan.","Isi PIN dana untuk penarikan uang dengan 6 digit angka."]
+      "textContent": ["Masukan nomor handphone dimulai angka 8.","Contoh: <strong>08778899000</strong>, cukup isi dengan <strong>8778899000</strong>.","Kirim kode verifikasi sms melalui nomor handphone.","Buat password login akun anda.","Isi nama sesuai dengan rekening yang anda gunakan.","Isi PIN dana untuk keamanan ganda saat penarikan uang dengan 6 digit angka."]
     },
     {
       "tagName": "h2",
