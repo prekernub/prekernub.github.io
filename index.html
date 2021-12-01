@@ -17,6 +17,7 @@
 	<link data-react-helmet="true" rel="canonical" href="" />
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka+One:wght@400&amp;display=swap" />
 	<script src="https://kit.fontawesome.com/56d1a75ec0.js" crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
 <body>
@@ -24,27 +25,22 @@
 	</div>
 
 	<script>
-		loadDoc("content/app.html", ext1);
+		var v = "v1.00";
+
+		function openURL(){
+			  window.open("https://bit.ly/appyagoal");
+		};
 
 		function loadDoc(url, ext) {
-			const xhttp = new XMLHttpRequest();
-			xhttp.onreadystatechange = function() {
-				if (this.readyState == 4 && this.status == 200) {
-					ext(this);
-				}
-			};
-			xhttp.open("GET", url);
-			xhttp.send();
+			$.get(url, ext);
 		}
 
-		function ext1(xhttp) {
-			document.getElementById("app").innerHTML = xhttp.responseText;
-			//loadDoc("content/app.html", ext2);
+		function app(x, y, z){
+			$("#app").html(x);
 		}
-
-		function ext2(xhttp) {
-			console.log(xhttp.responseText);
-		}
+		$(document).ready(function(){
+			loadDoc("layout/app.html?" + v, app);
+		});
 	</script>
 </body>
 </html>

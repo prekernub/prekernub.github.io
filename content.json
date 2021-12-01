@@ -1,0 +1,75 @@
+{
+  "headers": [
+    {
+      "tagName": "h2",
+      "titleContent": "Yang gabung Pasti Untung",
+      "attributes": [],
+      "textID": "bullet1",
+      "style": {"class":"fas fa-check","hidden":"true"},
+      "textContent": ["Dapatkan bonus Breakeven 3x sehari.","Dapatkan penghasilan 2,25% perhari.","Dapatkan Keuntungan 99% setiap bulannya."]
+    },
+    {
+      "tagName": "h2",
+      "titleContent": "Cara Mendaftar di Yagoal",
+      "attributes": [],
+      "textID": "bullet2",
+      "style": {"class":"fas fa-check","hidden":"true"},
+      "textContent": ["Masukan nomor handphone dimulai angka 8.","Contoh: <strong>08778899000</strong>, cukup isi dengan <strong>8778899000</strong>.","Kirim kode verifikasi sms melalui nomor handphone.","Buat password login akun anda.","Isi nama sesuai dengan rekening yang anda gunakan.","Isi PIN dana untuk penarikan uang dengan 6 digit angka."]
+    },
+    {
+      "tagName": "h2",
+      "titleContent": "NIKMATI PROFIT PASTI PER HARI 2.25%",
+      "attributes": [],
+      "textID": "text-603c74e1",
+      "style": "",
+      "textContent": "<p> Yagoal memiliki opsi pilihan 4:4 Breakeven, siapapun dapat bermain pada pilihan ini 3x sehari dengan imbalah sebesar 0.75% dari jumlah total taruhan. Jika sobat bermain pada poin tersebut, maka sobat sudah pasti akan menang alias tidak ada resiko. </p>"
+    },
+    {
+      "tagName": "h2",
+      "titleContent": "Tentang Yagoal",
+      "attributes": [],
+      "textID": "text-8aa925d4",
+      "style": "",
+      "textContent": "<p>Yagoal adalah layanan penghasil uang di internet yang bisa menghasilkan 0.75% per misi Breakeven yang di selesaikannya. Dalam sehari kita bisa menyelesaikan misi Breakeven 3 kali, jadi hasil yang kita dapat perharinya sebesar 2.25% lebih.</p><br><p>Kelebihan dari mengikuti misi Breakeven di Yagoal adalah hasil yang di dapat bisa di lipat gandakan atau lebih keren bahasanya bisa di coumpond. Hasil dari menyelesaikan misi Breakiven pertama bisa di masukan semua untuk misi Breakeven selanjutnya, Dan begitu seterusnya. Jadi kalau di hitung dalam jangka satu bulan hasilnya bisa mencapai 99% dari modal awal anda.</p>"
+    }
+  ],
+  "iframes": [
+    {
+      "src": "https://www.youtube.com/embed/Ca6cXi15BvI",
+      "attr": {
+        "style": "width: 100%; height: 100%;",
+        "src": "https://www.youtube.com/embed/Ca6cXi15BvI",
+        "title": "CARA DAFTAR YAGOAL || Aplikasi penghasil uang terbaru",
+        "frameborder": "0",
+        "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+        "allowfullscreen": ""
+      }
+    }
+  ],
+  "imgs": [
+    {
+      "src": "image/yagoal.jpg",
+      "attr": {
+        "loading": "lazy",
+        "src": "image/yagoal.jpg",
+        "class": "sc-ecaExY hxlCDB"
+      }
+    }
+  ],
+  "links": [
+    {
+      "text": "<div class='sc-eXEjpC etAwlV'>Gabung Breakeven</div><small class='sc-hXRMBi ipeoVL'>Daftar sekarang dan Ikuti Breakeven.</small>",
+      "href": "https://bit.ly/appyagoal",
+      "id": "button1",
+      "target": "_blank",
+      "class": "sc-gwVKww ljYjuZ"
+    },
+    {
+      "text": "<div class='sc-eXEjpC etAwlV'>Daftar sekarang</div><small class='sc-hXRMBi ipeoVL'>Dijamin kamu akan ketagihan.</small>",
+      "href": "https://bit.ly/appyagoal",
+      "id": "button2",
+      "target": "_blank",
+      "class": "sc-gwVKww ljYjuZ"
+    }
+  ]
+}
