@@ -49,11 +49,8 @@
   "imgs": [
     {
       "src": "image/yagoal_scam.jpg",
-      "attr": {
-        "loading": "lazy",
-        "src": "image/yagoal.jpg",
-        "class": "sc-ecaExY hxlCDB"
-      }
+      "loading": "lazy",
+      "class": "sc-ecaExY hxlCDB"
     }
   ],
   "links": [
